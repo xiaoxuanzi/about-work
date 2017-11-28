@@ -1,7 +1,7 @@
 # about-work
 
 ## 基础教程
-#### (计算机的理论基础很重要，这样知道一些问题根本原因)
+###### (计算机的理论基础很重要，这样知道一些问题根本原因)
 * 计算机网络 谢希仁 http://item.jd.com/13620164441.html 或者 TCP/IP详解 卷1：协议 https://item.jd.com/11966296.html
 * 计算机组成原理（第2版）http://item.jd.com/11384358.html
 * 计算机操作系统（第四版）http://item.jd.com/11469075.html
