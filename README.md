@@ -1,24 +1,17 @@
-# multi-Pings
+# about-work
 
-A tool for collecting packet delay and loss statistics using ICMP echo.
-
-## Description
+## 基础教程
 Multi-Pings is a tool for collecting packet delay and loss statistics using ICMP echo. It is not a linux command, such as ping or mping.<br>
-* Ability to send ICMP ECHO_REQUEST to multiple hosts simultaneously
-* Host ips be read from stdin
-* The results are output in a specified format
+* 计算机网络 谢希仁 http://item.jd.com/13620164441.html
+* 计算机组成原理（第2版）http://item.jd.com/11384358.html
+* 计算机操作系统（第四版）http://item.jd.com/11469075.html
+* 清华大学计算机系列教材：数据结构（C语言版） http://item.jd.com/11076338.html
 
-## Usage
-#### How to use
-* make
-* Usage : ./pings -o [OUTPUT_STYLE] <br>
-  OUTPUT_STYLE := { stream | json | yaml }
+## 在线练习网站
+* 实验楼 https://www.shiyanlou.com/courses/68
 
-#### Example
-* In directory script, a file called pings.py written by PYTHON<br>
-  import this module and use like this:<br>
-<pre><code>
-    p = Pings( hosts, format = fmt, logger = logger )<br>
-    rst = p.run()
-</pre></code>
-* For more detailed information of Pings, please refer to [pings.py](script/pings.py)
+## linux 常见命令
+* 进程查找： ps -ef |grep nginx
+* 进程停止： kill -9 pid
+* 文件查找：find . -name "*.go
+
