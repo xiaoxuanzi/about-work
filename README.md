@@ -22,6 +22,7 @@
 #### 平台组件
 * Nginx： Nginx 安装配置 http://www.runoob.com/linux/nginx-install-setup.html
 * Nginx： Nginx 教程 http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html 
+* Git: Git教程 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 ## linux 常见命令
 #### (后续会持续更新我常用的命令)
