@@ -8,12 +8,12 @@
 * 清华大学计算机系列教材：数据结构（C语言版） http://item.jd.com/11076338.html
 
 ## 在线资源
-####### (可以在网站中选择自己合适的进行练习)
-###### 实验楼练习平台
+###### (可以在网站中选择自己合适的进行练习)
+##### 实验楼练习平台
 * 实验楼 https://www.shiyanlou.com/courses/68
 * Linux命令实例练习 https://www.shiyanlou.com/courses/68
 * Linux 基础 https://www.shiyanlou.com/courses/1
-###### 极客学院
+##### 极客学院
 * 极客学院 https://www.jikexueyuan.com/ 
 
 #### 编程语言
