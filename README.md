@@ -16,13 +16,13 @@
 ##### 极客学院
 * 极客学院 https://www.jikexueyuan.com/ 
 
-#### 编程语言
+## 编程语言
 ###### (至少熟练掌握一种语言的编程，可以参考下面的教程多练习，刚开始练习的时候选择一种语言集中学习，再学习其他语言就容易了)
 * Shell 教程 http://www.runoob.com/linux/linux-shell.html
 * Python 基础教程 http://www.runoob.com/python/python-tutorial.html
 * Lua 教程 http://www.runoob.com/lua/lua-tutorial.html 
 
-#### 平台组件
+## 平台组件
 * Nginx： Nginx 安装配置 http://www.runoob.com/linux/nginx-install-setup.html
 * Nginx： Nginx 教程 http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html 
 * Git: Git教程 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
